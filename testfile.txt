@@ -1,2 +1,1 @@
-Lorep ipsum
-\n\nHello world
+Another test
